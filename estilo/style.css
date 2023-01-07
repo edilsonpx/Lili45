@@ -1089,7 +1089,7 @@ margin: 0px;
 
     #container-pedidos-ID{
     padding: 10px 2.6px;  /*altura dos cards Afastamentopara lador*/ 
-
+     text-align: center;
 }
 
     #central-ID{
@@ -1102,7 +1102,7 @@ margin: 0px;
 
 .card{
     border-radius: 10px;
-width: 178px;
+width: 220px;
 height: 310px;
 background-color: #F8F8FF;
 overflow: hidden;
