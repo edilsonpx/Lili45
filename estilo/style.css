@@ -846,7 +846,7 @@ body{
   display: flex;
   grid-gap: 0rem;
   max-width: 700px;
-  width: 100%;
+  width: 80%;
   overflow-x: auto;
   scroll-snap-type: x;
   cursor: grab;
