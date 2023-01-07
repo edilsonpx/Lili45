@@ -846,7 +846,7 @@ body{
   display: flex;
   grid-gap: 0rem;
   max-width: 700px;
-  width: 80%;
+  width: 100%;
   overflow-x: auto;
   scroll-snap-type: x;
   cursor: grab;
@@ -1191,7 +1191,7 @@ margin: 0px;
 
 .card{
     border-radius: 10px;
-width: 178px;
+width: 220px;
 height: 310px;
 background-color: #F8F8FF;
 overflow: hidden;
